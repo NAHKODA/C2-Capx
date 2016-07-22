@@ -1,0 +1,9 @@
+﻿License type: BUSINESS
+Product: Construct 2
+Licensed to: mehrdadch
+Email: mehrdad.ch93@gmail.com
+Comment: 
+Timestamp: 1450437058
+Hash: ACD0A93E906F3D707B1923FB3F12E5AE0EF5DE7EAF2AC26BF
+
+This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
